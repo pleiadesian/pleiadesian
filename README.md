@@ -1,4 +1,7 @@
-### Hi there 👋
+### Here is `pleiadesian`
+
+- 🌱 I’m currently interested in computer systems & quant trading
+- 🔭 I’m working on my graduation project and a quant system
 
 <!--
 **pleiadesian/pleiadesian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=pleiadesian&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pleiadesian&hide=html,css,tsql&layout=compact&langs_count=9)
