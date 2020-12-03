@@ -1,7 +1,7 @@
 ### Here is `pleiadesian`
 
 - 🌱 I’m currently interested in computer systems & quant trading
-- 🔭 I’m working on my graduation project and a quant system
+- 🔭 I’m working on my undergraduate thesis and a quant system
 
 <!--
 **pleiadesian/pleiadesian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
