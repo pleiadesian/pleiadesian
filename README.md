@@ -1,7 +1,10 @@
 ### Here is `pleiadesian`
 
-- 🌱 I’m currently interested in computer systems & quant trading
-- 🔭 I’m working on my undergraduate thesis and a quant system
+- 🌱 I’m interested in computer systems & quant trading
+- 💬 My research works mainly focus on storage and file systems
+- 🔭 I’m currently working on
+  - my undergraduate thesis about RL4sys
+  - a quant system for HFT in Shanghai and Shenzhen stock markets
 
 <!--
 **pleiadesian/pleiadesian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
