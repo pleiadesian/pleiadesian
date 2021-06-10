@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=pleiadesian&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pleiadesian&hide=html,css,tsql,perl&layout=compact&langs_count=8&theme=tokyonight&v=2)
-![](https://github-readme-stats.vercel.app/api/wakatime?username=pleiadesian&langs_count=5&theme=tokyonight&v=2)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=pleiadesian&layout=compact&langs_count=6&theme=tokyonight&v=2)
