@@ -3,7 +3,8 @@
 - 🌱 I’m interested in computer systems & quant trading
 - 💬 My research works mainly focus on storage and file systems
 - 🔭 I’m currently working on
-  - My undergraduate thesis about RL4sys
+  - A new paradigm for the lock-free data structure
+  - A research project about RL4sys
   - [A GSoC project](https://summerofcode.withgoogle.com/projects/#6471598049067008) about Ceph RGW
   - [A quant system](https://github.com/IdaoQuant) for HFT in Shanghai and Shenzhen stock markets
 
@@ -23,5 +24,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=pleiadesian&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pleiadesian&hide=html,css,tsql,perl&layout=compact&langs_count=8&theme=tokyonight&v=2)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pleiadesian&hide=html,css,tsql,perl&layout=compact&langs_count=6&theme=tokyonight&v=2)
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=pleiadesian&layout=compact&langs_count=6&theme=tokyonight&v=2)
