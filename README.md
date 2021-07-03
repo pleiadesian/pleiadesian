@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on
   - A new paradigm for the lock-free data structure
   - A research project about RL4sys
+  - Refactoring [the C-style tiger compiler](https://github.com/topics/tiger-compiler) into modern C++ style, which is a part of my TA job at [SE302 Compilers](https://ipads.se.sjtu.edu.cn/courses/compilers/)
   - [A GSoC project](https://summerofcode.withgoogle.com/projects/#6471598049067008) about Ceph RGW
   - [A quant system](https://github.com/IdaoQuant) for HFT in Shanghai and Shenzhen stock markets
 
